@@ -23,6 +23,7 @@ const objeto = {
     cuando están dentro de objetos)
 */
 
+/*
 const colores = ["blanco", "negro", "azul"];
 
 console.log(objeto);
@@ -37,3 +38,4 @@ colores.push(23);
 
 console.log(objeto);
 console.log(colores);
+*/

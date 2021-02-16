@@ -1,22 +1,29 @@
 # Taller_js : 2020 - 2021
+
 Repositorio del taller de JS
 
-# Documentacion Oficial
-https://developer.mozilla.org/es/docs/Web/JavaScript
+## Documentacion Oficial
 
-## Variables  var / let 
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/var
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/let
+'https://developer.mozilla.org/es/docs/Web/JavaScript'
 
-## Constantes
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/const
+### Variables  var / let
 
-## Numeros 
-https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Numbers_and_dates
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Number
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/var'
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/let'
 
-## Cadena de Texto
-https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Text_formatting
+### Constantes
 
-## Template String 
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/template_strings
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/const'
+
+### Numeros
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Number'
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Numbers_and_dates'
+
+### Cadena de Texto
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Text_formatting'
+
+### Template String
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/template_strings'

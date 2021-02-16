@@ -9,6 +9,7 @@
 
     // Interpolción de variables
     // Template String
+    /*
     let saludo2 = `Hola mi nombre es ${nombre} ${apellido}  y tengo 20 años.`;
     console.log(saludo2);
 
@@ -35,3 +36,4 @@
     ul3 += "</ul>";
 
     console.log(ul3);
+*/

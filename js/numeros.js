@@ -9,12 +9,12 @@
     //console.log(a, b);
     //console.log(c.toFixed(1));
     //console.log(c.toFixed(5));
-    // console.log(parseInt(c));
-    // console.log(parseFloat(c));
-    // console.log(typeof c, typeof d, typeof b);
+    //console.log(parseInt(c));
+    //console.log(parseFloat(c));
+    //console.log(typeof c, typeof d, typeof b);
     //console.log(a + d); // concatena una variable numerica con un string
     //console.log(a + e); // ejecuta la operacion de ambas variables numericas
     //console.log(c + parseInt(d));
     //console.log(c + parseFloat(d));
     //console.log(c + Number.parseInt(d));
-    //console.log(c + Number.parseFloat(d)); 
+    //console.log(c + Number.parseFloat(d));

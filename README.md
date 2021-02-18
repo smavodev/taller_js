@@ -27,3 +27,17 @@ Repositorio del taller de JS
 ### Template String
 
 'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/template_strings'
+
+### Booleans
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Boolean'
+
+### Undefined, null, NaN
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales'
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/undefined'
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/null'
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/NaN'

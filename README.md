@@ -41,3 +41,11 @@ Repositorio del taller de JS
 'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/null'
 
 'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/NaN'
+
+### Funciones
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones'
+
+### Array
+
+'https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array'
